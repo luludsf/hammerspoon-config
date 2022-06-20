@@ -1,0 +1,38 @@
+{
+  "e.g., Office" : {
+    "A1CB17B7-5332-7752-0857-D6964E3302DB" : {
+      "apps" : {
+        "Hammerspoon" : {
+          "y" : 25,
+          "w" : 1280,
+          "x" : 1280,
+          "h" : 1055
+        },
+        "Google Chrome" : {
+          "y" : 115,
+          "w" : 1440,
+          "x" : 560,
+          "h" : 875
+        },
+        "Discord" : {
+          "y" : 25,
+          "w" : 1280,
+          "x" : -0,
+          "h" : 1055
+        }
+      },
+      "Monitor Name" : "e.g., LG ULTRAWIDE"
+    },
+    "37D8832A-2D66-02CA-B9F7-8F30A301B230" : {
+      "apps" : {
+        "Code" : {
+          "y" : 1105,
+          "w" : 720,
+          "x" : 549,
+          "h" : 875
+        }
+      },
+      "Monitor Name" : "e.g., Built-in Retina Display"
+    }
+  }
+}
