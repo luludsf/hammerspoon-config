@@ -3,6 +3,7 @@
 --- Easily create, save, and use desktop arrangements.
 ---
 --- Positioning logic adapted from https://github.com/dploeger/hammerspoon-window-manager
+---
 local hotkey = require "hs.hotkey"
 local obj = {}
 obj.__index = obj
